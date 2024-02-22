@@ -18,5 +18,3 @@ app.use(json());
 app.use("/users", userRouter);
 
 app.use(HandleErrors.execute);
-
-// pá
