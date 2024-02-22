@@ -109,3 +109,4 @@ Padrão de resposta
 
 404 UNAUTHORIZED# Praticando-autentica-o
 # Praticando-autentica-o
+#Praticando-autenticacao
